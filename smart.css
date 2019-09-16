@@ -1,0 +1,52 @@
+body {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+body a {
+    text-decoration: none;
+    color: gray;
+}
+
+body a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+#cont1 {
+    padding: 10% 0%;
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+}
+
+#cont4 {
+    padding: 10% 0%;
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+}
+
+#cont3 {
+    background: #764ba2;
+}
+
+#cont3 {
+    background-color: rgb(243, 243, 243);
+    padding: 25px 0px;
+}
+
+.box {
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    font-size: 15px;
+    text-align: justify;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#but {
+    font-size: 10px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 50px;
+}
